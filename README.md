@@ -21,3 +21,6 @@ Otro gran proyecto fue mi portafolio personal, en el que mi nivel en React JS au
 
 https://github.com/ezegonzalez912/fmsvotacion2 <br />
 Actualmente este proyecto se encuentra en proceso, pero solo en este componente, ya se puede observar mi mejoria con respecto al primer proyecto, se implemento Sass que permite un codigo mas organizado y legible, se utilizaron multiples Hooks, tambien cree propios customs, se uso el ContextApi de React, React Router, entre otros.
+
+https://github.com/ezegonzalez912/presentacion <br />
+Un pequeño proyecto, realizado solo con html, css y javacript, una presentacion simple y elegante.
