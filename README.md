@@ -17,12 +17,12 @@ Simulacion de un mini e-commerce <Br/>
 https://github.com/ezegonzalez912/challenge-aerolab
 <Br/>
 
--FMS Votación
+<b>FMS Votación</b><Br/>
 Aplicacion web para votar la famosa competencia FMS <Br/>
 https://github.com/ezegonzalez912/fmsvotacion2
 <Br/>
 
--Portafolio<Br/>
+<b>Portafolio</b><Br/>
 Mi portafolio personal <Br/>
 https://github.com/ezegonzalez912/portafolio
 <Br/>
