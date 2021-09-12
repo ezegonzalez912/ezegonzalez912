@@ -14,15 +14,18 @@ HTML • CSS • JAVASCRIPT • TYPESCRIPT • REACT JS • REACT ROUTER • SAS
 
 <b>Challenge aerolab</b><Br/>
 Simulacion de un mini e-commerce. <Br/>
-https://github.com/ezegonzalez912/challenge-aerolab
+Web: https://ezegonzalez912.github.io/challenge-aerolab/#/ <Br />
+Repositorio: https://github.com/ezegonzalez912/challenge-aerolab
 <Br/>
 
 <b>FMS Votación</b><Br/>
 Aplicacion web para votar la famosa competencia FMS. <Br/>
-https://github.com/ezegonzalez912/fmsvotacion2
+Web: https://fmsvotacion.com/ <Br/>
+Repositorio: https://github.com/ezegonzalez912/fmsvotacion2
 <Br/>
 
 <b>Portafolio</b><Br/>
 Mi portafolio personal. <Br/>
-https://github.com/ezegonzalez912/portafolio
+Web: https://ezegonzalez912.github.io/portafolio/<Br/>
+Repositorio: https://github.com/ezegonzalez912/portafolio
 <Br/>
