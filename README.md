@@ -1,8 +1,12 @@
 
 # Ezequiel Gonzalez
 
-Desarrolador Front-end.
-Estudiante de Programacion informatica.
+Hola!<br/>
+
+Soy un estudiante de progrmacion informatica, apasionado por el desarrollo web, <br/>
+aca entraras algunos de mis proyectos.
+
+Espero te gusten.
 
 
 ## Tecnologias
