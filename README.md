@@ -9,31 +9,44 @@ Estudiante de Programacion informatica.
 
 HTML • CSS • JAVASCRIPT • TYPESCRIPT • REACT JS • REACT ROUTER • SASS • NPM • GITHUB
 
-
 ## Principales proyectos
-
-<b>Challenge Aerolab</b><Br/>
-![aerolab](./assets/aerolab-challenge.gif)
-Simulacion de un mini e-commerce. <Br/>
-Web: https://ezegonzalez912.github.io/challenge-aerolab/#/ <Br />
-Repositorio: https://github.com/ezegonzalez912/challenge-aerolab
-<Br/>
-
-<b>Challenge Alkemy</b><Br/>
-Una aplicacion de heroes. <Br/>
-Web: 
-https://ezegonzalez912.github.io/challenge-alkemy/#/<Br/>
-Repositorio: https://github.com/ezegonzalez912/challenge-alkemy
-<Br/>
-
-<b>Portafolio</b><Br/>
-Mi portafolio personal. <Br/>
-Web: https://ezegonzalez912.github.io/portafolio/<Br/>
-Repositorio: https://github.com/ezegonzalez912/portafolio
-<Br/>
-
-<b>FMS Votación</b><Br/>
-Aplicacion web para votar la famosa competencia FMS. <Br/>
-Web: https://fmsvotacion.com/ <Br/>
-Repositorio: https://github.com/ezegonzalez912/fmsvotacion2
-<Br/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/fmsvotacionv2.gif" width="300px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>FMS Votacion</b>
+        </sub><br/>
+        <a href="https://fmsvotacion.com" target="_blank">Web </a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/portafolio.gif" width="300px;" alt="Foto do Marcelo Santos"/><br>
+        <sub>
+          <b>Portafolio Personal</b>
+        </sub><br/>
+        <a href="https://ezegonzalez912.github.io/portafolio/" target="_blank">Web </a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/alkemy-challenge.gif" width="300px;" alt="Foto da Vanessa Swerts"/><br>
+        <sub>
+          <b>Challenge Alkemy</b>
+        </sub><br/>
+        <a href="https://ezegonzalez912.github.io/challenge-alkemy/#/" target="_blank">Web </a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/aerolab-challenge.gif" width="300px;" alt="Foto da Vanessa Swerts"/><br>
+        <sub>
+          <b>Challenge Aerolab</b>
+        </sub><br/>
+        <a href="https://ezegonzalez912.github.io/challenge-aerolab/#/" target="_blank">Web </a>
+      </a>
+    </td>
+  </tr>
+</table>
