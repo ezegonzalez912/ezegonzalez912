@@ -4,7 +4,7 @@
 Hola!<br/>
 
 Soy un estudiante de progrmacion informatica, apasionado por el desarrollo web, <br/>
-aca entraras algunos de mis proyectos.
+aca encontraras algunos de mis proyectos.
 
 Espero te gusten.
 
