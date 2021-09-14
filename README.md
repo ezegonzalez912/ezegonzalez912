@@ -12,7 +12,7 @@ HTML • CSS • JAVASCRIPT • TYPESCRIPT • REACT JS • REACT ROUTER • SAS
 
 ## Principales proyectos
 
-![fmsvotacion](./assets/fmsvotacion.gif)
+![aerolab](./assets/aerolab-challenge.gif)
 <b>Challenge Aerolab</b><Br/>
 Simulacion de un mini e-commerce. <Br/>
 Web: https://ezegonzalez912.github.io/challenge-aerolab/#/ <Br />
