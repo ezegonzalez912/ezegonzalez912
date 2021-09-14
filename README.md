@@ -1,5 +1,5 @@
 
-# Ezequiel Gonzalez
+## ▶Ezequiel Gonzalez
 
 Hola!<br/>
 
@@ -9,11 +9,12 @@ aca encontraras algunos de mis proyectos.
 Espero te gusten.
 
 
-## Tecnologias
+## ⚡Tecnologias
 
-HTML • CSS • JAVASCRIPT • TYPESCRIPT • REACT JS • REACT ROUTER • SASS • NPM • GITHUB
+HTML ♦ CSS ♦ JAVASCRIPT ♦ REACT JS <br />
+TYPESCRIPT ♦ PREPROCESADORES CSS ♦ 
 
-## Principales proyectos
+## ⚠Principales proyectos
 <table>
   <tr>
     <td align="center">
