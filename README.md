@@ -1,8 +1,8 @@
 # Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### <p>MI nombre es Ezequiel, soy un estudiante de progrmacion informatica,<br/>
-### apasionado por el desarrollo web, <br/>
-### aca encontraras algunos de mis proyectos.</p>
+<h3>Mi nombre es Ezequiel, soy un estudiante de progrmacion informatica,<br/>
+apasionado por el desarrollo web, <br/>
+aca encontraras algunos de mis proyectos.</h3>
 
 ## Tecnologias
 
