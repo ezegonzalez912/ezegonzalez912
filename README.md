@@ -66,9 +66,7 @@ aca encontraras algunos de mis proyectos.</p>
 
 ## Github Estadisticas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezegonzalez912&show_icons=true&locale=en&layout=compact" alt="ezegonzalez912" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezegonzalez912&show_icons=true&locale=en" alt="ezegonzalez912" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezegonzalez912&show_icons=true&locale=es&layout=compact" alt="ezegonzalez912" /></p>
 
 ## Contáctame
 <p align="left">
