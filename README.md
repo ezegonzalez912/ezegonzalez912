@@ -41,6 +41,24 @@ TYPESCRIPT ♦ PREPROCESADORES CSS ♦
         </sub>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://ezegonzalez912.github.io/challenge-softvision/">
+        <img src="./assets/softvision-challenge.gif" width="300px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Challenge Sotfvision</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ezegonzalez912/innovid-challenge">
+        <img src="./assets/innovid-challenge.gif" width="300px;" alt="Foto do Marcelo Santos"/><br>
+        <sub>
+          <b>Challenge Innovid</b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://ezegonzalez912.github.io/challenge-aerolab/#/">
         <img src="./assets/aerolab-challenge.gif" width="300px;" alt="Foto da Vanessa Swerts"/><br>
