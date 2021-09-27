@@ -62,6 +62,16 @@ aca encontrarás algunos de mis proyectos.</h3>
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://nextjs-app-hazel.vercel.app/">
+        <img src="./assets/movie-next.gif" width="300px;" alt="Foto da Vanessa Swerts"/><br>
+        <sub>
+          <b>Movie Next</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Github Estadisticas
