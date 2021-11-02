@@ -81,8 +81,6 @@ aca encontrarás algunos de mis proyectos.</h3>
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://ezegonzalez912.github.io/game-meli/#/">
         <img src="./assets/game-meli.gif" width="300px;" alt="Foto da Vanessa Swerts"/><br>
